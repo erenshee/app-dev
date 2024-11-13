@@ -1,5 +1,6 @@
 # app-dev
 My first repository
+
 # My favorite series/movies are **The Walking Dead**
 
  based on the comic book series written by Robert Kirkman and published by Image Comics, tells the story of the months and years that follow after a zombie apocalypse. It follows a group of survivors, led by police officer Rick Grimes, who travel in search of a safe and secure home. The comic goes on to explore the challenges of life in a world overrun by zombies who take a toll on the survivors, and sometimes the interpersonal conflicts present a greater danger to their continuing survival than the zombies that roam the country. Over time, the characters are changed by the constant exposure to death and some grow willing to do anything to survive.
@@ -12,4 +13,4 @@ My first repository
 
  AMC has created a franchise of related media, including the spin-off series Fear the Walking Dead (2015–23), The Walking Dead: World Beyond (2020–21), Tales of the Walking Dead (2022), The Walking Dead: Dead City (2023–present), The Walking Dead: Daryl Dixon (2023–present) and The Walking Dead: The Ones Who Live (2024) as well as several webisodes and video games.
 
-<https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)>
+[The Walking Dead]<https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)>
